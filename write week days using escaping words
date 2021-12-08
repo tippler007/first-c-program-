@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+   printf("sunday\n");
+   printf("monday\t\t");
+   printf("tuesday\n");
+   printf("wednesday\n\n\n");
+   printf("thursday\t\t");
+   printf("friday\n");
+   printf("saturday\n\n\n");
+   printf("sunday\n\n");
+   
+}
